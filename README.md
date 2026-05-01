@@ -1,6 +1,6 @@
 # Hi There, I'm Okuhle Ndungane 👋
 
-**Software Engineering Student | Aspiring Full-Stack Developer**
+**Software Engineering Student | Software Engineer**
 
 ---
 
@@ -86,7 +86,7 @@ Service providing local business that provides mobile coldroom, VIP and VVIP mob
 
 ## 🎯 Career Objective
 
-Currently: To secure a software development internship where I can contribute to impactful projects, gain industry experience, and continue developing as a full-stack engineer.
+Currently: To secure a software engineering/ Software Tester internship where I can contribute to impactful projects, gain industry experience, and continue developing as a software engineer.
 
 ---
 
