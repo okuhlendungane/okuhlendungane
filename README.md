@@ -18,7 +18,7 @@ Actively seeking internship opportunities to apply and grow my skills in a real-
 
 * HTML5, CSS3, JavaScript
 * PHP, MySQL
-* Java
+* Java (only used in mobile app dev)
 * Python
 
 **Frameworks & Tools**
@@ -32,7 +32,6 @@ Actively seeking internship opportunities to apply and grow my skills in a real-
 
 * Responsive Web Design
 * CRUD Applications
-* RESTful Principles
 * App development
 
 ---
